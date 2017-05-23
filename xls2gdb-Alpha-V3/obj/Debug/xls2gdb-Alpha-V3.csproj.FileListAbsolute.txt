@@ -1,0 +1,13 @@
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\bin\Debug\xls2gdb-Alpha-V3.exe.config
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\bin\Debug\xls2gdb-Alpha-V3.exe
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\bin\Debug\xls2gdb-Alpha-V3.pdb
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\bin\Debug\Excel.4.5.dll
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb-Alpha-V3.csprojResolveAssemblyReference.cache
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb.DataBaseTable.resources
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb.ExcelTable.resources
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb.MainForm.resources
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb.Properties.Resources.resources
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb-Alpha-V3.csproj.GenerateResource.Cache
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb-Alpha-V3.exe
+C:\Users\root\documents\visual studio 2012\Projects\xls2gdb-Alpha-V3\xls2gdb-Alpha-V3\obj\Debug\xls2gdb-Alpha-V3.pdb
